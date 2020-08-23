@@ -16,6 +16,8 @@
     <h1>Hello, world!</h1>
 
     <h4>added the onther text here </h4>
+    <img src="https://via.placeholder.com/150" alt="">
+    <img src="https://via.placeholder.com/300" alt="">
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
